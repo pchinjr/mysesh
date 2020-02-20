@@ -8,8 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "npx sandbox",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx sandbox"
   },
   "keywords": [],
   "author": "",
